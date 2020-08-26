@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   rflutter_alert: ^1.0.3
+  double_back_to_close_app: ^1.2.0
 
 
   # The following adds the Cupertino Icons font to your application.
